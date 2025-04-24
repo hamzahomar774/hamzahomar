@@ -1,0 +1,41 @@
+# hamzahomar
+project website
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Birthday Party Invitation</title>
+  <style>
+    body {
+      background-color: #fdf6e3;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: red;
+    }
+    .details {
+      color: #333;
+      margin-top: 20px;
+    }
+    .footer {
+      margin-top: 30px;
+      font-size: 14px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎉 You're Invited! 🎉</h1>
+  
+  <p class="details">Join us to celebrate Sarah's Birthday!</p>
+  <p class="details">📅 Date: April 25, 2025</p>
+  <p class="details">📍 Location: Rose Garden Park</p>
+  <p class="details">🕒 Time: 5:00 PM</p>
+
+  <div class="footer">Please RSVP via text or call: 055-555-5555</div>
+
+</body>
+</html>
